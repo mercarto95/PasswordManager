@@ -1,7 +1,7 @@
 import tkinter as tk
 import tkinter.font as tkFont
 from tkinter import messagebox
-from main import *
+from password import *
 
 myDatabase = sqlite3.connect('./db/mydb.db')
 
